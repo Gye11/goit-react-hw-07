@@ -296,6 +296,7 @@ body {
 /* EMPTY / LOADING */
 .status {
   text-align: center;
-  color: #777;
-  margin-top: 10px;
+  margin: 10px 0;
+  font-weight: 500;
+  color: #555;
 }
